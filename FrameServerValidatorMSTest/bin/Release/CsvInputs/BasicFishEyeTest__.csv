@@ -1,0 +1,14 @@
+TestDetails
+Area,FishEye
+SubArea,BasicFishEyeTest
+Description,Run FishEye Fps Test
+IdGenerate,0
+BelongTo,WOS
+
+Properties
+FISHEYE_GAIN,10,248,
+FISHEYE_EXPOSURE,20,31000,
+
+Profiles
+Profile,FishEye,G38574152,Res_640x480,Fps_30
+Profile,FishEye,G38574152,Res_640x480,Fps_60

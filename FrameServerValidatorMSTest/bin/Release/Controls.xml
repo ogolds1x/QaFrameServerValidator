@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Properties>
+  <DepthControls>
+    <Controls Name="Accuracy" 				            CONTROL_NAME_IN_DLL= "MF_ACCURACY"                              Min="1" 	Max="3" 	  Step="1" 	Default="1" 	IsAutoCapable="false" />
+    <Controls Name="ConfidenceThreshold" 	        CONTROL_NAME_IN_DLL= "MF_DEPTH_CONFIDENCE_THRESHOLD"            Min="0" 	Max="15" 	  Step="1" 	Default="3" 	IsAutoCapable="false" />
+    <Controls Name="FilterOption" 			          CONTROL_NAME_IN_DLL= "MF_FILTER_OPTION"                         Min="0" 	Max="7" 	  Step="1" 	Default="5" 	IsAutoCapable="false" />
+    <Controls Name="MotionVsRangeTradeoff" 	      CONTROL_NAME_IN_DLL= "MF_MOTION_VS_RANGE_TRADE"                 Min="0" 	Max="220" 	Step="1" 	Default="9" 	IsAutoCapable="false" />
+    <Controls Name="DepthMotionVsRangeTradeoff" 	CONTROL_NAME_IN_DLL= "DEPTH_MOTION_VS_RANGE_TRADE"              Min="0" 	Max="220" 	Step="1" 	Default="9" 	IsAutoCapable="false" />
+    <Controls Name="DepthFaceAuth"     	          CONTROL_NAME_IN_DLL= "DEPTH_FACE_AUTH"                          Min=""  	Max=""    	Step="" 	Default="" 	  IsAutoCapable="false" />   
+    <!--Controls Name="PowerGear" 				        CONTROL_NAME_IN_DLL= "MF_POWER_GEAR"							Min="0" 	Max="220" 	Step="1" 	Default="9" 	IsAutoCapable="false" /-->
+    <!--Made up value for powergear. Change them later-->
+    <Controls Name="DS5_Depth_Exposure" 	           CONTROL_NAME_IN_DLL= "DS5_DEPTH_EXPOSURE"                     Min="1" 	      Max="1660" 	Step="1" 	       Default="9" 	  IsAutoCapable="true" />
+    <Controls Name="DS5_Depth_Laser_On_Off"          CONTROL_NAME_IN_DLL= "DS5_DEPTH_LASER_ON_OFF"                 Min="0" 	      Max="2" 	  Step="1" 	       Default="2" 	  IsAutoCapable="true" />
+    <Controls Name="DepthPreset" 			               CONTROL_NAME_IN_DLL= "DEPTH_PRESET"                           Min="1" 	      Max="16" 	  Step="1" 	       Default="10" 	IsAutoCapable="false" />
+    <Controls Name="DepthLaserPower"                 CONTROL_NAME_IN_DLL="DEPTH_LASER_POWER"                       Min="0"        Max="16"    Step="1"         Default="1"    IsAutoCapable="false" />
+    <Controls Name="DepthAccuracy"                   CONTROL_NAME_IN_DLL="DEPTH_ACCURACY"                          Min="1"        Max="3"     Step="1"         Default="1"    IsAutoCapable="false" />
+    <Controls Name="DepthConfidenceThreshold"        CONTROL_NAME_IN_DLL="DEPTH_CONFIDENCE_THRESHOLD"              Min="0"        Max="15"    Step="1"         Default="1"    IsAutoCapable="false" />
+    <Controls Name="DepthFilterOption"               CONTROL_NAME_IN_DLL="DEPTH_FILTER_OPTION"                     Min="0"        Max="7"     Step="1"         Default="1"    IsAutoCapable="false" />
+  </DepthControls>
+  <ColorControls>
+    <Controls Name="Exposure"                CONTROL_NAME_IN_DLL="COLOR_EXPOSURE"                           Min="-8"       Max="0"         Step="1"     Default="-6"       IsAutoCapable="true" />
+    <Controls Name="WhiteBalance"            CONTROL_NAME_IN_DLL="COLOR_WHITE_BALANCE"                      Min="2800"     Max="6500"      Step="10"    Default="4600"     IsAutoCapable="true" />
+    <Controls Name="BacklightCompensation"   CONTROL_NAME_IN_DLL="COLOR_BACK_LIGHT_COMPENSATION"            Min="0"        Max="4"         Step="1"     Default="0"        IsAutoCapable="false" />
+    <Controls Name="Brightness"              CONTROL_NAME_IN_DLL="COLOR_BRIGHTNESS"                         Min="-64"      Max="64"        Step="1"     Default="0"        IsAutoCapable="false" />
+    <Controls Name="Contrast"                CONTROL_NAME_IN_DLL="COLOR_CONTRAST"                           Min="0"        Max="100"       Step="1"     Default="50"       IsAutoCapable="false" />
+    <Controls Name="Gamma"                   CONTROL_NAME_IN_DLL="COLOR_GAMMA"                              Min="100"      Max="500"       Step="1"     Default="300"      IsAutoCapable="false" />
+    <Controls Name="Hue"                     CONTROL_NAME_IN_DLL="COLOR_HUE"                                Min="-180"     Max="180"       Step="1"     Default="0"        IsAutoCapable="false" />
+    <Controls Name="Saturation"              CONTROL_NAME_IN_DLL="COLOR_SATURATION"                         Min="0"        Max="100"       Step="1"     Default="64"       IsAutoCapable="false" />
+    <Controls Name="Sharpness"               CONTROL_NAME_IN_DLL="COLOR_SHARPNESS"                          Min="0"        Max="100"       Step="1"     Default="50"       IsAutoCapable="false" />
+    <Controls Name="Gain"                    CONTROL_NAME_IN_DLL="COLOR_GAIN"                               Min="0"        Max="128"       Step="1"     Default="64"       IsAutoCapable="false" />
+    <Controls Name="ColorPrivacy"            CONTROL_NAME_IN_DLL="COLOR_PRIVACY"                            Min="0"        Max="1"         Step="1"     Default="0"        IsAutoCapable="false" />
+    <Controls Name="PowerlineFrequency"      CONTROL_NAME_IN_DLL="COLOR_POWER_LINE_FREQUENCY"               Min="0"        Max="3"         Step="1"     Default="3"        IsAutoCapable="false" />
+    <Controls Name="PriorityMode"            CONTROL_NAME_IN_DLL="COLOR_EXPOSURE_PRIORITY"                  Min="0"        Max="1"         Step="1"     Default="1"        IsAutoCapable="false" />
+  </ColorControls> 
+  <FishEyeControls>
+    <Controls Name="FishEye_Exposure"      CONTROL_NAME_IN_DLL="FISHEYE_EXPOSURE"        Min="20"       Max="32000"       Step="1"     Default="400"       IsAutoCapable="false" />
+    <Controls Name="FishEye_Gain"          CONTROL_NAME_IN_DLL="FISHEYE_GAIN"            Min="10"       Max="255"       Step="1"     Default="10"      IsAutoCapable="false" />
+  </FishEyeControls>
+</Properties>

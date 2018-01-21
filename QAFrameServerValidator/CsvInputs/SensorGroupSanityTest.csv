@@ -1,0 +1,12 @@
+TestDetails
+Area,SensorGroup
+SubArea,SensorGroupSanityTest
+Description,Run SensorGroup Test
+IdGenerate,0
+BelongTo,WOS
+
+Properties
+
+
+Profiles
+Profile,Depth,D16,Res_640x480,Fps_60

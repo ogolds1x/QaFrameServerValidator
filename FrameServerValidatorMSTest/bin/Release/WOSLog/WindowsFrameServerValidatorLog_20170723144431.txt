@@ -1,0 +1,99 @@
+07/23/17  14:44:31.9  Debug  Call Garbage Collection
+07/23/17  14:44:31.9  Info  Starting BasicDepthTest
+07/23/17  14:44:32.0  Info  If base.ok: True
+07/23/17  14:44:32.0  Info  this.m_profiles.Count size:  650
+07/23/17  14:44:32.0  Info  this.m_controls.Count size: 1
+LOG_PATH: C:\Users\rimarohx\perc_hw_qa-dmft\FrameServerValidatorMSTest\bin\Release\WOSLog
+07/23/17  14:44:32.0  Debug  profilesList.Count650
+PROFILE_NAME: Profile,Depth,D16,424x240,90,DS5_Depth_Exposure,40
+07/23/17  14:44:32.0  Debug  ***************Counter :1
+07/23/17  14:44:32.1  Info  Depth Group has been selected: 
+07/23/17  14:44:32.1  Info  Unable to select source group
+07/23/17  14:44:32.1  Info  Cleanup started
+07/23/17  14:44:32.1  Info  End Cleanup
+PROFILE_RESULT: Failed
+
+
+PROFILE_NAME: Profile,Depth,D16,424x240,90,DS5_Depth_Exposure,120
+07/23/17  14:44:42.1  Debug  ***************Counter :2
+07/23/17  14:44:42.2  Info  Depth Group has been selected: 
+07/23/17  14:44:42.2  Info  Unable to select source group
+07/23/17  14:44:42.2  Info  Cleanup started
+07/23/17  14:44:42.2  Info  End Cleanup
+PROFILE_RESULT: Failed
+
+
+PROFILE_NAME: Profile,Depth,D16,424x240,90,DS5_Depth_Exposure,200
+07/23/17  14:44:52.2  Debug  ***************Counter :3
+07/23/17  14:44:52.3  Info  Depth Group has been selected: 
+07/23/17  14:44:52.3  Info  Unable to select source group
+07/23/17  14:44:52.3  Info  Cleanup started
+07/23/17  14:44:52.3  Info  End Cleanup
+PROFILE_RESULT: Failed
+
+
+PROFILE_NAME: Profile,Depth,D16,424x240,90,DS5_Depth_Exposure,600
+07/23/17  14:45:02.3  Debug  ***************Counter :4
+07/23/17  14:45:02.4  Info  Depth Group has been selected: 
+07/23/17  14:45:02.4  Info  Unable to select source group
+07/23/17  14:45:02.4  Info  Cleanup started
+07/23/17  14:45:02.4  Info  End Cleanup
+PROFILE_RESULT: Failed
+
+
+PROFILE_NAME: Profile,Depth,D16,424x240,90,DS5_Depth_Exposure,1000
+07/23/17  14:45:12.4  Debug  ***************Counter :5
+07/23/17  14:45:12.5  Info  Depth Group has been selected: 
+07/23/17  14:45:12.5  Info  Unable to select source group
+07/23/17  14:45:12.5  Info  Cleanup started
+07/23/17  14:45:12.5  Info  End Cleanup
+PROFILE_RESULT: Failed
+
+
+PROFILE_NAME: Profile,Depth,D16,424x240,60,DS5_Depth_Exposure,40
+07/23/17  14:45:22.5  Debug  ***************Counter :6
+07/23/17  14:45:22.6  Info  Depth Group has been selected: 
+07/23/17  14:45:22.6  Info  Unable to select source group
+07/23/17  14:45:22.6  Info  Cleanup started
+07/23/17  14:45:22.6  Info  End Cleanup
+PROFILE_RESULT: Failed
+
+
+PROFILE_NAME: Profile,Depth,D16,424x240,60,DS5_Depth_Exposure,120
+07/23/17  14:45:32.6  Debug  ***************Counter :7
+07/23/17  14:45:32.7  Info  Depth Group has been selected: 
+07/23/17  14:45:32.7  Info  Unable to select source group
+07/23/17  14:45:32.7  Info  Cleanup started
+07/23/17  14:45:32.7  Info  End Cleanup
+PROFILE_RESULT: Failed
+
+
+PROFILE_NAME: Profile,Depth,D16,424x240,60,DS5_Depth_Exposure,200
+07/23/17  14:45:42.7  Debug  ***************Counter :8
+07/23/17  14:45:42.8  Info  Depth Group has been selected: 
+07/23/17  14:45:42.8  Info  Unable to select source group
+07/23/17  14:45:42.8  Info  Cleanup started
+07/23/17  14:45:42.8  Info  End Cleanup
+PROFILE_RESULT: Failed
+
+
+PROFILE_NAME: Profile,Depth,D16,424x240,60,DS5_Depth_Exposure,600
+07/23/17  14:45:52.8  Debug  ***************Counter :9
+07/23/17  14:45:52.9  Info  Depth Group has been selected: 
+07/23/17  14:45:52.9  Info  Unable to select source group
+07/23/17  14:45:52.9  Info  Cleanup started
+07/23/17  14:45:52.9  Info  End Cleanup
+PROFILE_RESULT: Failed
+
+
+PROFILE_NAME: Profile,Depth,D16,424x240,60,DS5_Depth_Exposure,1000
+07/23/17  14:46:02.9  Debug  ***************Counter :10
+07/23/17  14:46:03.0  Info  Depth Group has been selected: 
+07/23/17  14:46:03.0  Info  Unable to select source group
+07/23/17  14:46:03.0  Info  Cleanup started
+07/23/17  14:46:03.0  Info  End Cleanup
+PROFILE_RESULT: Failed
+
+
+PROFILE_NAME: Profile,Depth,D16,424x240,30,DS5_Depth_Exposure,40
+07/23/17  14:46:13.0  Debug  *************

@@ -1,0 +1,841 @@
+06/14/17  14:04:29.2  Debug  Call Garbage Collection
+06/14/17  14:04:29.2  Info  Starting BasicDepthTest
+06/14/17  14:04:29.2  Info  If base.ok: True
+06/14/17  14:04:29.2  Info  this.m_profiles.Count size:  650
+06/14/17  14:04:29.2  Info  this.m_controls.Count size: 1
+LOG_PATH: C:\Users\rimarohx\perc_hw_qa-dmft\FrameServerValidatorMSTest\bin\Release\WOSLog
+06/14/17  14:04:29.2  Debug  profilesList.Count650
+PROFILE_NAME: Profile,Depth,D16,424x240,90,DS5_Depth_Exposure,40
+06/14/17  14:04:29.2  Debug  Counter :0
+06/14/17  14:04:29.3  Info  Depth Group has been selected: Intel(R) RealSense(TM) 420 with Tracking Module Depth
+06/14/17  14:04:29.3  Info  Succesfully selected source group
+06/14/17  14:04:29.5  Info  Depth MediaCapture initialization succeeded
+06/14/17  14:04:29.5  Info  Format: videoFormatWidth: 424 videoFormatHeight: 240 FPS: 10000000 Numerator: 10000000 Denominator: 111111 
+06/14/17  14:04:29.5  Debug  Inside DS5 set Exposure
+06/14/17  14:04:29.5  Debug  changeValueViaXU => DS5_DEPTH_EXPOSURE
+06/14/17  14:04:29.6  Debug  ==> Control DS5_DEPTH_EXPOSURE  value set to 40
+06/14/17  14:04:31.5  Info  Cleanup started
+06/14/17  14:04:31.5  Info  Clean Depth
+06/14/17  14:04:31.8  Info  End Depth Cleanup
+06/14/17  14:04:31.8  Info  End Cleanup
+06/14/17  14:04:31.8  Info  Signaled
+
+06/14/17  14:04:31.8  Info  Cleanup started
+06/14/17  14:04:31.8  Info  End Cleanup
+06/14/17  14:04:41.8  Debug  Is Media Capture = Null : True
+06/14/17  14:04:41.8  Info  fr.lst_Frames.Count: 70
+06/14/17  14:04:41.8  Info  
+06/14/17  14:04:41.8  Info  ****Data Analysis ****
+06/14/17  14:04:41.9  Info  CheckFpsBetweenFramesDS5: FPS - 90, Exposure - 40, Actual FPS - 11.1111111111111
+06/14/17  14:04:41.9  Info  threshold: upper - 11666.6666666667, lower - 10555.5555555556
+06/14/17  14:04:41.9  Debug  Check frameCounter 2
+06/14/17  14:04:41.9  Debug  Check callBackTime 1
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2707936849
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68527974.7947
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 3
+06/14/17  14:04:41.9  Debug  Check callBackTime 1
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2707947953
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68527985.9085
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 4
+06/14/17  14:04:41.9  Debug  Check callBackTime 2
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2707959056
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68527997.011
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 5
+06/14/17  14:04:41.9  Debug  Check callBackTime 2
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2707970160
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528008.254
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 6
+06/14/17  14:04:41.9  Debug  Check callBackTime 2
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2707981263
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528019.3866
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 7
+06/14/17  14:04:41.9  Debug  Check callBackTime 3
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2707992367
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528030.4737
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 8
+06/14/17  14:04:41.9  Debug  Check callBackTime 3
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708003470
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528041.4902
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 9
+06/14/17  14:04:41.9  Debug  Check callBackTime 3
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708014574
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528052.6086
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 10
+06/14/17  14:04:41.9  Debug  Check callBackTime 4
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708025677
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528063.735
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 11
+06/14/17  14:04:41.9  Debug  Check callBackTime 4
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708036781
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528074.8545
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 12
+06/14/17  14:04:41.9  Debug  Check callBackTime 4
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708047884
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528085.9706
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 13
+06/14/17  14:04:41.9  Debug  Check callBackTime 5
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708058988
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528097.1476
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 14
+06/14/17  14:04:41.9  Debug  Check callBackTime 5
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708070091
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528108.2244
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 15
+06/14/17  14:04:41.9  Debug  Check callBackTime 5
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708081195
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528119.336
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 16
+06/14/17  14:04:41.9  Debug  Check callBackTime 5
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708092299
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528130.4595
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 17
+06/14/17  14:04:41.9  Debug  Check callBackTime 6
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708103402
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528141.5773
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 18
+06/14/17  14:04:41.9  Debug  Check callBackTime 6
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708114506
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528152.6969
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 19
+06/14/17  14:04:41.9  Debug  Check callBackTime 6
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708125609
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528163.8187
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 20
+06/14/17  14:04:41.9  Debug  Check callBackTime 7
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708136713
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528174.9314
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 21
+06/14/17  14:04:41.9  Debug  Check callBackTime 7
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708147816
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528186.1072
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 22
+06/14/17  14:04:41.9  Debug  Check callBackTime 7
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708158920
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528197.1835
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 23
+06/14/17  14:04:41.9  Debug  Check callBackTime 8
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708170023
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528208.3184
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 24
+06/14/17  14:04:41.9  Debug  Check callBackTime 8
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708181127
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528219.4208
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 25
+06/14/17  14:04:41.9  Debug  Check callBackTime 8
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708192230
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528230.5813
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 26
+06/14/17  14:04:41.9  Debug  Check callBackTime 9
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708203334
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528241.7014
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 27
+06/14/17  14:04:41.9  Debug  Check callBackTime 9
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708214437
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528252.8067
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 28
+06/14/17  14:04:41.9  Debug  Check callBackTime 9
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708225541
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528264.0019
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 29
+06/14/17  14:04:41.9  Debug  Check callBackTime 10
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708236644
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528275.1157
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 30
+06/14/17  14:04:41.9  Debug  Check callBackTime 10
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708247748
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528286.2023
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 31
+06/14/17  14:04:41.9  Debug  Check callBackTime 10
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708258851
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528297.3514
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 32
+06/14/17  14:04:41.9  Debug  Check callBackTime 11
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708269955
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528308.3708
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 33
+06/14/17  14:04:41.9  Debug  Check callBackTime 11
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708281058
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528319.4971
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 34
+06/14/17  14:04:41.9  Debug  Check callBackTime 11
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708292162
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528330.6257
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 35
+06/14/17  14:04:41.9  Debug  Check callBackTime 12
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708303266
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528341.7345
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 36
+06/14/17  14:04:41.9  Debug  Check callBackTime 12
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708314369
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528352.8489
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 37
+06/14/17  14:04:41.9  Debug  Check callBackTime 12
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708325473
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528363.9803
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 38
+06/14/17  14:04:41.9  Debug  Check callBackTime 12
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708336576
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528375.0936
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 39
+06/14/17  14:04:41.9  Debug  Check callBackTime 13
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708347680
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528386.2643
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 40
+06/14/17  14:04:41.9  Debug  Check callBackTime 13
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708358783
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528397.3827
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 41
+06/14/17  14:04:41.9  Debug  Check callBackTime 13
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708369887
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528408.4687
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 42
+06/14/17  14:04:41.9  Debug  Check callBackTime 14
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708380990
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528419.6252
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 43
+06/14/17  14:04:41.9  Debug  Check callBackTime 14
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708392094
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528430.7003
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 44
+06/14/17  14:04:41.9  Debug  Check callBackTime 14
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708403197
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528441.8455
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 45
+06/14/17  14:04:41.9  Debug  Check callBackTime 14
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708414301
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528452.9877
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 46
+06/14/17  14:04:41.9  Debug  Check callBackTime 15
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708425404
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528464.0845
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 47
+06/14/17  14:04:41.9  Debug  Check callBackTime 15
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708436508
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528475.1813
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 48
+06/14/17  14:04:41.9  Debug  Check callBackTime 15
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708447611
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528486.3019
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 49
+06/14/17  14:04:41.9  Debug  Check callBackTime 16
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708458715
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528497.4152
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 50
+06/14/17  14:04:41.9  Debug  Check callBackTime 16
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708469818
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528508.5438
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 51
+06/14/17  14:04:41.9  Debug  Check callBackTime 16
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708480922
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528519.6633
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 52
+06/14/17  14:04:41.9  Debug  Check callBackTime 17
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708492026
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528530.8523
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 53
+06/14/17  14:04:41.9  Debug  Check callBackTime 17
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708503129
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528541.8916
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 54
+06/14/17  14:04:41.9  Debug  Check callBackTime 17
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708514233
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528553.1129
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 55
+06/14/17  14:04:41.9  Debug  Check callBackTime 18
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708525336
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528564.2279
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 56
+06/14/17  14:04:41.9  Debug  Check callBackTime 18
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708536440
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528575.2485
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 57
+06/14/17  14:04:41.9  Debug  Check callBackTime 18
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708547543
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528586.4539
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 58
+06/14/17  14:04:41.9  Debug  Check callBackTime 19
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708558647
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528597.4926
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 59
+06/14/17  14:04:41.9  Debug  Check callBackTime 19
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708569750
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528608.6707
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 60
+06/14/17  14:04:41.9  Debug  Check callBackTime 20
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708580854
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528619.7442
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 61
+06/14/17  14:04:41.9  Debug  Check callBackTime 20
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708591957
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528630.8535
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 62
+06/14/17  14:04:41.9  Debug  Check callBackTime 20
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708603061
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528641.981
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 63
+06/14/17  14:04:41.9  Debug  Check callBackTime 20
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708614164
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528653.1124
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 64
+06/14/17  14:04:41.9  Debug  Check callBackTime 21
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708625268
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528664.2729
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 65
+06/14/17  14:04:41.9  Debug  Check callBackTime 21
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708636371
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528675.3651
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 66
+06/14/17  14:04:41.9  Debug  Check callBackTime 21
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708647475
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528686.4579
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 67
+06/14/17  14:04:41.9  Debug  Check callBackTime 22
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708658578
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528697.5786
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 68
+06/14/17  14:04:41.9  Debug  Check callBackTime 22
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708669682
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528708.6941
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 69
+06/14/17  14:04:41.9  Debug  Check callBackTime 22
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708680785
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528719.8159
+Frame Status: True
+---
+06/14/17  14:04:41.9  Debug  Check frameCounter 70
+06/14/17  14:04:41.9  Debug  Check callBackTime 23
+06/14/17  14:04:41.9  Debug  Check hwTimeStamp 2708691889
+06/14/17  14:04:41.9  Debug  Check systemRelativeTime 68528730.9508
+Frame Status: True
+---
+06/14/17  14:04:41.9  Info  Profile Status: True
+PROFILE_RESULT: Passed
+
+
+PROFILE_NAME: Profile,Depth,D16,424x240,90,DS5_Depth_Exposure,120
+06/14/17  14:04:41.9  Debug  Counter :0
+06/14/17  14:04:42.0  Info  Depth Group has been selected: Intel(R) RealSense(TM) 420 with Tracking Module Depth
+06/14/17  14:04:42.0  Info  Succesfully selected source group
+06/14/17  14:04:42.0  Info  Depth MediaCapture initialization succeeded
+06/14/17  14:04:42.0  Info  Format: videoFormatWidth: 424 videoFormatHeight: 240 FPS: 10000000 Numerator: 10000000 Denominator: 111111 
+06/14/17  14:04:42.0  Debug  Inside DS5 set Exposure
+06/14/17  14:04:42.0  Debug  changeValueViaXU => DS5_DEPTH_EXPOSURE
+06/14/17  14:04:42.1  Debug  ==> Control DS5_DEPTH_EXPOSURE  value set to 120
+06/14/17  14:04:44.0  Info  Cleanup started
+06/14/17  14:04:44.0  Info  Clean Depth
+06/14/17  14:04:44.3  Info  End Depth Cleanup
+06/14/17  14:04:44.3  Info  End Cleanup
+06/14/17  14:04:44.3  Info  Signaled
+
+06/14/17  14:04:44.3  Info  Cleanup started
+06/14/17  14:04:44.3  Info  End Cleanup
+06/14/17  14:04:54.3  Debug  Is Media Capture = Null : True
+06/14/17  14:04:54.3  Info  fr.lst_Frames.Count: 70
+06/14/17  14:04:54.3  Info  
+06/14/17  14:04:54.3  Info  ****Data Analysis ****
+06/14/17  14:04:54.3  Info  CheckFpsBetweenFramesDS5: FPS - 90, Exposure - 120, Actual FPS - 11.1111111111111
+06/14/17  14:04:54.3  Info  threshold: upper - 11666.6666666667, lower - 10555.5555555556
+06/14/17  14:04:54.3  Debug  Check frameCounter 2
+06/14/17  14:04:54.3  Debug  Check callBackTime 0
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710010352
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540479.432
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 3
+06/14/17  14:04:54.3  Debug  Check callBackTime 1
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710021456
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540490.6232
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 4
+06/14/17  14:04:54.3  Debug  Check callBackTime 1
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710032559
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540501.683
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 5
+06/14/17  14:04:54.3  Debug  Check callBackTime 1
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710043663
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540512.86
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 6
+06/14/17  14:04:54.3  Debug  Check callBackTime 2
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710054766
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540523.9852
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 7
+06/14/17  14:04:54.3  Debug  Check callBackTime 2
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710065870
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540535.0814
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 8
+06/14/17  14:04:54.3  Debug  Check callBackTime 2
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710076973
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540546.2186
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 9
+06/14/17  14:04:54.3  Debug  Check callBackTime 3
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710088077
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540557.3364
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 10
+06/14/17  14:04:54.3  Debug  Check callBackTime 3
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710099180
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540568.4542
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 11
+06/14/17  14:04:54.3  Debug  Check callBackTime 3
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710110284
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540579.4628
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 12
+06/14/17  14:04:54.3  Debug  Check callBackTime 4
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710121387
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540590.7587
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 13
+06/14/17  14:04:54.3  Debug  Check callBackTime 4
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710132491
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540601.8139
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 14
+06/14/17  14:04:54.3  Debug  Check callBackTime 4
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710143594
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540613.0404
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 15
+06/14/17  14:04:54.3  Debug  Check callBackTime 5
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710154698
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540624.1298
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 16
+06/14/17  14:04:54.3  Debug  Check callBackTime 5
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710165801
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540635.2493
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 17
+06/14/17  14:04:54.3  Debug  Check callBackTime 5
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710176905
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540646.3847
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 18
+06/14/17  14:04:54.3  Debug  Check callBackTime 6
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710188008
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540657.3552
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 19
+06/14/17  14:04:54.3  Debug  Check callBackTime 6
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710199112
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540668.4565
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 20
+06/14/17  14:04:54.3  Debug  Check callBackTime 6
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710210216
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540679.5601
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 21
+06/14/17  14:04:54.3  Debug  Check callBackTime 7
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710221319
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540690.6882
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 22
+06/14/17  14:04:54.3  Debug  Check callBackTime 7
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710232423
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540701.7736
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 23
+06/14/17  14:04:54.3  Debug  Check callBackTime 9
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710243526
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540713.0006
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 24
+06/14/17  14:04:54.3  Debug  Check callBackTime 14
+06/14/17  14:04:54.3  An Error Has Occurred:  Error on callBackTime: frame_index 22: 9, frame_index 23: 14, elapsed time: 5
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710254630
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540724.028
+Frame Status: False
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 25
+06/14/17  14:04:54.3  Debug  Check callBackTime 15
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710265733
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540735.1242
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 26
+06/14/17  14:04:54.3  Debug  Check callBackTime 15
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710276837
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540746.3746
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 27
+06/14/17  14:04:54.3  Debug  Check callBackTime 15
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710287940
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540757.3723
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 28
+06/14/17  14:04:54.3  Debug  Check callBackTime 15
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710299044
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540768.6176
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 29
+06/14/17  14:04:54.3  Debug  Check callBackTime 16
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710310147
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540779.6626
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 30
+06/14/17  14:04:54.3  Debug  Check callBackTime 16
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710321251
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540790.7861
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 31
+06/14/17  14:04:54.3  Debug  Check callBackTime 16
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710332354
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540801.9784
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 32
+06/14/17  14:04:54.3  Debug  Check callBackTime 17
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710343458
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540813.0758
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 33
+06/14/17  14:04:54.3  Debug  Check callBackTime 17
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710354561
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540824.2129
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 34
+06/14/17  14:04:54.3  Debug  Check callBackTime 17
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710365665
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540835.3376
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 35
+06/14/17  14:04:54.3  Debug  Check callBackTime 18
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710376768
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540846.3416
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 36
+06/14/17  14:04:54.3  Debug  Check callBackTime 18
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710387872
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540857.5749
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 37
+06/14/17  14:04:54.3  Debug  Check callBackTime 18
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710398975
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540868.6939
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 38
+06/14/17  14:04:54.3  Debug  Check callBackTime 19
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710410079
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540879.814
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 39
+06/14/17  14:04:54.3  Debug  Check callBackTime 19
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710421183
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540891.0348
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 40
+06/14/17  14:04:54.3  Debug  Check callBackTime 19
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710432286
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540902.0923
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 41
+06/14/17  14:04:54.3  Debug  Check callBackTime 19
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710443390
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540913.259
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 42
+06/14/17  14:04:54.3  Debug  Check callBackTime 20
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710454493
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540924.3046
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 43
+06/14/17  14:04:54.3  Debug  Check callBackTime 20
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710465597
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540935.4133
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 44
+06/14/17  14:04:54.3  Debug  Check callBackTime 20
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710476700
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540946.514
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 45
+06/14/17  14:04:54.3  Debug  Check callBackTime 21
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710487804
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540957.6603
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 46
+06/14/17  14:04:54.3  Debug  Check callBackTime 21
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710498907
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540968.7753
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 47
+06/14/17  14:04:54.3  Debug  Check callBackTime 21
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710510011
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540979.9005
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 48
+06/14/17  14:04:54.3  Debug  Check callBackTime 22
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710521114
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68540990.9944
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 49
+06/14/17  14:04:54.3  Debug  Check callBackTime 22
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710532218
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68541002.1117
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 50
+06/14/17  14:04:54.3  Debug  Check callBackTime 22
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710543321
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68541013.2687
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 51
+06/14/17  14:04:54.3  Debug  Check callBackTime 23
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710554425
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68541024.469
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 52
+06/14/17  14:04:54.3  Debug  Check callBackTime 23
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710565528
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68541035.5431
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 53
+06/14/17  14:04:54.3  Debug  Check callBackTime 24
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710576632
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68541046.5909
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 54
+06/14/17  14:04:54.3  Debug  Check callBackTime 25
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710587735
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68541057.624
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 55
+06/14/17  14:04:54.3  Debug  Check callBackTime 25
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710598839
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68541068.7327
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 56
+06/14/17  14:04:54.3  Debug  Check callBackTime 25
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710609943
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68541079.9506
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 57
+06/14/17  14:04:54.3  Debug  Check callBackTime 26
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710621046
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68541091.1424
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 58
+06/14/17  14:04:54.3  Debug  Check callBackTime 26
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710632150
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68541102.0952
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 59
+06/14/17  14:04:54.3  Debug  Check callBackTime 26
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710643253
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68541113.3075
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 60
+06/14/17  14:04:54.3  Debug  Check callBackTime 27
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710654357
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68541124.3627
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 61
+06/14/17  14:04:54.3  Debug  Check callBackTime 27
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710665460
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68541135.571
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 62
+06/14/17  14:04:54.3  Debug  Check callBackTime 27
+06/14/17  14:04:54.3  Debug  Check hwTimeStamp 2710676564
+06/14/17  14:04:54.3  Debug  Check systemRelativeTime 68541146.6604
+Frame Status: True
+---
+06/14/17  14:04:54.3  Debug  Check frameCounter 63
+06/14/17  14:04:54.3  Debug  Check callBackTime 28
+06/14/17  14:04:54.3  Deb

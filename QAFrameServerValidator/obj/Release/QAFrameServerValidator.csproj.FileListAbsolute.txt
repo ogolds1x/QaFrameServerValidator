@@ -1,0 +1,10 @@
+C:\Users\rimarohx\Desktop\for Ofir\latest\QAFrameServerValidator\bin\Release\QAFrameServerValidator.exe.config
+C:\Users\rimarohx\Desktop\for Ofir\latest\QAFrameServerValidator\bin\Release\QAFrameServerValidator.exe
+C:\Users\rimarohx\Desktop\for Ofir\latest\QAFrameServerValidator\bin\Release\QAFrameServerValidator.pdb
+C:\Users\rimarohx\Desktop\for Ofir\latest\QAFrameServerValidator\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rimarohx\Desktop\for Ofir\latest\QAFrameServerValidator\bin\Release\System.Runtime.WindowsRuntime.dll
+C:\Users\rimarohx\Desktop\for Ofir\latest\QAFrameServerValidator\bin\Release\Windows.winmd
+C:\Users\rimarohx\Desktop\for Ofir\latest\QAFrameServerValidator\bin\Release\System.Runtime.WindowsRuntime.xml
+C:\Users\rimarohx\Desktop\for Ofir\latest\QAFrameServerValidator\obj\Release\QAFrameServerValidator.csprojResolveAssemblyReference.cache
+C:\Users\rimarohx\Desktop\for Ofir\latest\QAFrameServerValidator\obj\Release\QAFrameServerValidator.exe
+C:\Users\rimarohx\Desktop\for Ofir\latest\QAFrameServerValidator\obj\Release\QAFrameServerValidator.pdb

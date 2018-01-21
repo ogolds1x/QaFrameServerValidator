@@ -1,0 +1,16 @@
+TestDetails
+Area,Depth
+SubArea,BasicDepthTest
+Description,Run Depth Fps Test
+IdGenerate,0
+BelongTo,WOS
+
+Properties
+DEPTH_ACCURACY,2							
+DEPTH_LASER_POWER,16						
+DEPTH_MOTION_VS_RANGE_TRADE,0
+
+Profiles
+Profile,Depth,L8,Res_360x360,Fps_60
+
+

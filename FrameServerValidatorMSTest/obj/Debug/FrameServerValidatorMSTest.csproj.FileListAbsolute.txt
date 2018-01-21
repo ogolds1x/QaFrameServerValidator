@@ -1,0 +1,44 @@
+C:\Users\rimarohx\perc_hw_qa-dmft\FrameServerValidatorMSTest\bin\Debug\FrameServerValidatorMSTest.dll
+C:\Users\rimarohx\perc_hw_qa-dmft\FrameServerValidatorMSTest\bin\Debug\FrameServerValidatorMSTest.pdb
+C:\Users\rimarohx\perc_hw_qa-dmft\FrameServerValidatorMSTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rimarohx\perc_hw_qa-dmft\FrameServerValidatorMSTest\bin\Debug\QAFrameServerValidator.exe
+C:\Users\rimarohx\perc_hw_qa-dmft\FrameServerValidatorMSTest\bin\Debug\Windows.winmd
+C:\Users\rimarohx\perc_hw_qa-dmft\FrameServerValidatorMSTest\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\rimarohx\perc_hw_qa-dmft\FrameServerValidatorMSTest\bin\Debug\QAFrameServerValidator.pdb
+C:\Users\rimarohx\perc_hw_qa-dmft\FrameServerValidatorMSTest\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\rimarohx\perc_hw_qa-dmft\FrameServerValidatorMSTest\obj\Debug\FrameServerValidatorMSTest.csprojResolveAssemblyReference.cache
+C:\Users\rimarohx\perc_hw_qa-dmft\FrameServerValidatorMSTest\obj\Debug\FrameServerValidatorMSTest.dll
+C:\Users\rimarohx\perc_hw_qa-dmft\FrameServerValidatorMSTest\obj\Debug\FrameServerValidatorMSTest.pdb
+C:\Users\rimarohx\Desktop\for Ofir\FrameServerValidatorMSTest\bin\Debug\FrameServerValidatorMSTest.dll
+C:\Users\rimarohx\Desktop\for Ofir\FrameServerValidatorMSTest\bin\Debug\FrameServerValidatorMSTest.pdb
+C:\Users\rimarohx\Desktop\for Ofir\FrameServerValidatorMSTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rimarohx\Desktop\for Ofir\FrameServerValidatorMSTest\bin\Debug\QAFrameServerValidator.exe
+C:\Users\rimarohx\Desktop\for Ofir\FrameServerValidatorMSTest\bin\Debug\Windows.winmd
+C:\Users\rimarohx\Desktop\for Ofir\FrameServerValidatorMSTest\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\rimarohx\Desktop\for Ofir\FrameServerValidatorMSTest\bin\Debug\QAFrameServerValidator.pdb
+C:\Users\rimarohx\Desktop\for Ofir\FrameServerValidatorMSTest\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\rimarohx\Desktop\for Ofir\FrameServerValidatorMSTest\obj\Debug\FrameServerValidatorMSTest.csprojResolveAssemblyReference.cache
+C:\Users\rimarohx\Desktop\for Ofir\FrameServerValidatorMSTest\obj\Debug\FrameServerValidatorMSTest.dll
+C:\Users\rimarohx\Desktop\for Ofir\FrameServerValidatorMSTest\obj\Debug\FrameServerValidatorMSTest.pdb
+C:\Users\rimarohx\Desktop\MulitiStream\FrameServerValidatorMSTest\bin\Debug\FrameServerValidatorMSTest.dll
+C:\Users\rimarohx\Desktop\MulitiStream\FrameServerValidatorMSTest\bin\Debug\FrameServerValidatorMSTest.pdb
+C:\Users\rimarohx\Desktop\MulitiStream\FrameServerValidatorMSTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rimarohx\Desktop\MulitiStream\FrameServerValidatorMSTest\bin\Debug\QAFrameServerValidator.exe
+C:\Users\rimarohx\Desktop\MulitiStream\FrameServerValidatorMSTest\bin\Debug\Windows.winmd
+C:\Users\rimarohx\Desktop\MulitiStream\FrameServerValidatorMSTest\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\rimarohx\Desktop\MulitiStream\FrameServerValidatorMSTest\bin\Debug\QAFrameServerValidator.pdb
+C:\Users\rimarohx\Desktop\MulitiStream\FrameServerValidatorMSTest\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\rimarohx\Desktop\MulitiStream\FrameServerValidatorMSTest\obj\Debug\FrameServerValidatorMSTest.csprojResolveAssemblyReference.cache
+C:\Users\rimarohx\Desktop\MulitiStream\FrameServerValidatorMSTest\obj\Debug\FrameServerValidatorMSTest.dll
+C:\Users\rimarohx\Desktop\MulitiStream\FrameServerValidatorMSTest\obj\Debug\FrameServerValidatorMSTest.pdb
+C:\Users\rimarohx\Desktop\for Ofir\latest\FrameServerValidatorMSTest\bin\Debug\FrameServerValidatorMSTest.dll
+C:\Users\rimarohx\Desktop\for Ofir\latest\FrameServerValidatorMSTest\bin\Debug\FrameServerValidatorMSTest.pdb
+C:\Users\rimarohx\Desktop\for Ofir\latest\FrameServerValidatorMSTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rimarohx\Desktop\for Ofir\latest\FrameServerValidatorMSTest\bin\Debug\QAFrameServerValidator.exe
+C:\Users\rimarohx\Desktop\for Ofir\latest\FrameServerValidatorMSTest\bin\Debug\Windows.winmd
+C:\Users\rimarohx\Desktop\for Ofir\latest\FrameServerValidatorMSTest\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\rimarohx\Desktop\for Ofir\latest\FrameServerValidatorMSTest\bin\Debug\QAFrameServerValidator.pdb
+C:\Users\rimarohx\Desktop\for Ofir\latest\FrameServerValidatorMSTest\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\rimarohx\Desktop\for Ofir\latest\FrameServerValidatorMSTest\obj\Debug\FrameServerValidatorMSTest.csprojResolveAssemblyReference.cache
+C:\Users\rimarohx\Desktop\for Ofir\latest\FrameServerValidatorMSTest\obj\Debug\FrameServerValidatorMSTest.dll
+C:\Users\rimarohx\Desktop\for Ofir\latest\FrameServerValidatorMSTest\obj\Debug\FrameServerValidatorMSTest.pdb

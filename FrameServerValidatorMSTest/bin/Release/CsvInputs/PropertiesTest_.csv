@@ -1,0 +1,12 @@
+TestDetails
+Area,Properties
+SubArea,PropertiesTest
+Description,Set all properties values.
+IdGenerate,2
+BelongTo,WOS
+
+Properties
+DS5_DEPTH_EXPOSURE
+DS5_DEPTH_LASER_ON_OFF
+FISHEYE_GAIN
+FISHEYE_EXPOSURE

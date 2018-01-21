@@ -1,0 +1,14 @@
+TestDetails
+Area,Color
+SubArea,BasicColorTest
+Description,Run Color Fps Test
+IdGenerate,0
+BelongTo,WOS
+
+Properties
+COLOR_EXPOSURE,-6
+
+Profiles
+Profile,Color,YUY2,Res_640x480,Fps_30
+
+
